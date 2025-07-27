@@ -1,6 +1,5 @@
-#<div align="center"> <!-- Colored title image: place this file in your repository and reference it here --> <img src="munir_khan_title.png" alt="Munir Khan Colored Title" width="700" height="80" /> </div> <div align="center"> <h2>Computer Science & Engineering Graduate&nbsp;|&nbsp;UC&nbsp;Merced</h2> <h3>Backend&nbsp;Developer&nbsp;&bull;&nbsp;Autonomous&nbsp;Systems&nbsp;&bull;&nbsp;HPC&nbsp;Optimization</h3> </div>
-
-<div align="center">
+<div align="center"> <!-- Colored title image: place this file in your repository and reference it here --> <img src="munir_khan_title.png" alt="Munir Khan Colored Title" width="700" height="80" /> </div> <div align="center"> <h2>Computer Science & Engineering Graduate&nbsp;|&nbsp;UC&nbsp;Merced</h2> <h3>Backend&nbsp;Developer&nbsp;&bull;&nbsp;Autonomous&nbsp;Systems&nbsp;&bull;&nbsp;HPC&nbsp;Optimization</h3> </div>
+<div align="center"> <h2>CORE&nbsp;ARCHITECTURE</h2> <img alt="Robotic Cat" width="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="border-radius:10px;" /> </div>
 
 ## MUNIR KHAN
 ### Computer Science & Engineering Graduate | UC Merced
