@@ -8,31 +8,23 @@
 </div>
 
 ---
-
-## CORE ARCHITECTURE
-
-<div align="center">
-  <img alt="Robotic Cat" width="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-</div>
-
-```python
 class MunirKhan:
     def __init__(self):
         self.name = "MUNIR KHAN"
         self.role = "Backend & Full Stack Developer"
         self.education = "UC Merced - CS & Engineering"
         self.status = "Recent Graduate"
-        
+
         self.languages = ["Python", "JavaScript", "TypeScript", "HTML/CSS", "Bash"]
         self.frameworks = ["FastAPI", "React + TypeScript", "Node.js", "Tailwind CSS"]
         self.automation = ["discord.py", "discord.js", "python-telegram-bot"]
         self.tools = ["Git", "Redis", "Wireshark", "OpenMPI", "SLURM"]
-        
+
         self.focus = "Autonomous Systems & HPC Optimization"
-        
+
     def deploy_solutions(self):
         return "Building intelligent systems, one line at a time"
-```
+
 
 ---
 
