@@ -1,6 +1,4 @@
-# <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=40&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&height=80&lines=MUNIR+KHAN;Backend+Developer;Autonomous+Systems;HPC+Specialist" alt="Typing Animation" />
-</div>
+<div align="center"> <!-- Colored title image: place this file in your repository and reference it here --> <img src="munir_khan_title.png" alt="Munir Khan Colored Title" width="700" height="80" /> </div> <div align="center"> <h2>Computer Science & Engineering Graduate&nbsp;|&nbsp;UC&nbsp;Merced</h2> <h3>Backend&nbsp;Developer&nbsp;&bull;&nbsp;Autonomous&nbsp;Systems&nbsp;&bull;&nbsp;HPC&nbsp;Optimization</h3> </div>
 
 <div align="center">
 
