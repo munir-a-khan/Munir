@@ -1,6 +1,7 @@
-# <div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=40&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&height=80&lines=MUNIR+KHAN;Backend+Developer;Autonomous+Systems;HPC+Specialist" alt="Typing Animation" />
 </div>
+
 
 <div align="center">
 
