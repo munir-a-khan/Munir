@@ -1,4 +1,25 @@
-<div align="center"> <!-- Colored title image: place this file in your repository and reference it here --> <img src="munir_khan_title.png" alt="Munir Khan Colored Title" width="700" height="80" /> </div> <div align="center"> <h2>Computer Science & Engineering Graduate&nbsp;|&nbsp;UC&nbsp;Merced</h2> <h3>Backend&nbsp;Developer&nbsp;&bull;&nbsp;Autonomous&nbsp;Systems&nbsp;&bull;&nbsp;HPC&nbsp;Optimization</h3> </div>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="80">
+  <style>
+    text {
+      font: bold 60px 'Roboto', sans-serif;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+  </style>
+  <text x="50%" y="50%" fill="red">
+    MUNIR KHAN
+    <animate attributeName="fill" values="#FF6B35;#F94B6B;#E94BF9;#6B35FF;#35C8FF;#35FF6B;#C8FF35;#FFBC35;#FF3599;#9D35FF;#FF6B35" dur="4s" repeatCount="indefinite"/>
+  </text>
+</svg>
+
+
+
+
+<div align="center"> <h2>Computer Science & Engineering Graduate&nbsp;|&nbsp;UC&nbsp;Merced</h2> <h3>Backend&nbsp;Developer&nbsp;&bull;&nbsp;Autonomous&nbsp;Systems&nbsp;&bull;&nbsp;HPC&nbsp;Optimization</h3> </div>
+
+
+
+
 <div align="center"> <h2>CORE&nbsp;ARCHITECTURE</h2> <img alt="Robotic Cat" width="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="border-radius:10px;" /> </div>
 
 ## MUNIR KHAN
