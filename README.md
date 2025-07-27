@@ -1,16 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="80">
-  <style>
-    text {
-      font: bold 60px 'Roboto', sans-serif;
-      text-anchor: middle;
-      dominant-baseline: middle;
-    }
-  </style>
-  <text x="50%" y="50%" fill="red">
-    MUNIR KHAN
-    <animate attributeName="fill" values="#FF6B35;#F94B6B;#E94BF9;#6B35FF;#35C8FF;#35FF6B;#C8FF35;#FFBC35;#FF3599;#9D35FF;#FF6B35" dur="4s" repeatCount="indefinite"/>
-  </text>
-</svg>
+<div align="center">
+  <img src="munir_khan_animated.svg" alt="Munir Khan Animated Title" width="700" height="80" />
+</div>
 
 
 
