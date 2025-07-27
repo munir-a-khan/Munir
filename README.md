@@ -22,8 +22,9 @@
 </div>
 
 ---
-```
-class MunirKhan:
+```python
+
+  class MunirKhan:
     def __init__(self):
         self.name = "MUNIR KHAN"
         self.role = "Backend & Full Stack Developer"
