@@ -22,6 +22,7 @@
 </div>
 
 ---
+```
 class MunirKhan:
     def __init__(self):
         self.name = "MUNIR KHAN"
@@ -38,7 +39,7 @@ class MunirKhan:
 
     def deploy_solutions(self):
         return "Building intelligent systems, one line at a time"
-
+```
 
 ---
 
