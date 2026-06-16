@@ -1,33 +1,27 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=40&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&height=80&lines=MUNIR+KHAN;Backend+Developer;Autonomous+Systems;HPC+Specialist" alt="Typing Animation" />
-</div>
 
+  <h1>Munir Khan</h1>
+  <h3>Computer Science & Engineering Graduate | UC Merced</h3>
+  <h3>Backend Developer | Autonomous Systems | HPC Optimization</h3>
 
-<div align="center">
+  <a href="mailto:munirk79@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/munir-a-khan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
-## MUNIR KHAN
-### Computer Science & Engineering Graduate | UC Merced
-### Backend Developer • Autonomous Systems • HPC Optimization
-
-</div>
-
-
-
-
-<div align="center"> <h2>CORE&nbsp;ARCHITECTURE</h2> <img alt="Robotic Cat" width="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="border-radius:10px;" /> </div>
-
-## MUNIR KHAN
-### Computer Science & Engineering Graduate | UC Merced
-### Backend Developer • Autonomous Systems • HPC Optimization
-
+  <br /><br />
+  <img alt="Robotic Cat" width="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="border-radius:10px;" />
 </div>
 
 ---
-```python
 
-  class MunirKhan:
+```python
+class MunirKhan:
     def __init__(self):
-        self.name = "MUNIR KHAN"
+        self.name = "Munir Khan"
         self.role = "Backend & Full Stack Developer"
         self.education = "UC Merced - CS & Engineering"
         self.status = "Recent Graduate"
@@ -45,7 +39,7 @@
 
 ---
 
-## TECH STACK
+## Tech Stack
 
 <div align="center">
 
@@ -79,13 +73,13 @@
 
 ---
 
-## ACTIVE PROJECTS
+## Active Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### AMIGA AUTONOMOUS ROBOT
+### AMIGA Autonomous Robot
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f4a439c8-2176-4a50-a3ba-3b354d7fd5b7" width="100%" alt="Farm-ng Amiga Robot" style="border-radius: 10px;"/>
 </div>
@@ -102,9 +96,11 @@ Autonomous navigation system for cilantro crop yield estimation using Farm-ng Am
 </td>
 <td width="50%" valign="top">
 
-### WARFRAME MARKET SNIPER
+### [Warframe Market Sniper](https://github.com/munir-a-khan/Sniper_BOT_WFM)
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1078c934-dfe2-4d90-aa8e-2cdc9ad4198a" width="100%" alt="Warframe Market Interface" style="border-radius: 10px;"/>
+  <a href="https://github.com/munir-a-khan/Sniper_BOT_WFM">
+    <img src="https://github.com/user-attachments/assets/1078c934-dfe2-4d90-aa8e-2cdc9ad4198a" width="100%" alt="Warframe Market Interface" style="border-radius: 10px;"/>
+  </a>
 </div>
 
 **Mission:** High-Frequency Trading Bot  
@@ -112,21 +108,21 @@ Autonomous navigation system for cilantro crop yield estimation using Farm-ng Am
 
 **Tech:** `Python/Node.js` `discord.py/discord.js` `Rotating Proxies`
 
-Ultra-low latency (<5s) market sniping bot for Riven mods. Rotating proxy architecture, heartbeat monitoring, and custom auction profiles.
+Ultra-low latency market sniping bot for Riven mods. Rotating proxy architecture, heartbeat monitoring, and custom auction profiles.
 
-**Status:** Production Ready
+**Status:** Production Ready - Private Repository
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### IRC PROTOCOL RESEARCH
+### IRC Protocol Research
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3f01688a-7933-42f8-9246-4b354e6d9664" width="100%" alt="TLS Handshake Analysis - Warframe Protocol" style="border-radius: 10px;"/>
 </div>
 
-**Mission:** Security Research (Private)  
+**Mission:** Security Research  
 **Role:** Independent Researcher
 
 **Tech:** `Wireshark` `Burp Suite` `TLS Analysis` `IRC Protocol`
@@ -138,7 +134,7 @@ Network protocol analysis and security research. Packet inspection, authenticati
 </td>
 <td width="50%" valign="top">
 
-### INDYSCC 2024 HPC OPTIMIZATION
+### IndySCC 2024 HPC Optimization
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ca06fc42-cba4-45f4-b703-4333cf114417" width="100%" alt="SC24 Student Cluster Competition" style="border-radius: 10px;"/>
 </div>
@@ -148,64 +144,85 @@ Network protocol analysis and security research. Packet inspection, authenticati
 
 **Tech:** `HPL Benchmarks` `OpenMPI` `SLURM` `NAMD`
 
-Optimized High-Performance Linpack benchmarks on multi-node clusters. Compiler flags, and MPI configuration tuning.
+Optimized High-Performance Linpack benchmarks on multi-node clusters with compiler flags and MPI configuration tuning.
 
 **Status:** Competition Complete
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [WF Omni Tile Roller](https://github.com/munir-a-khan/WF_Omni_Tile_Roller)
+<div align="center">
+  <img src="https://img.shields.io/badge/Warframe-Tile%20Scanner-00A3FF?style=for-the-badge&logo=python&logoColor=white" alt="WF Omni Tile Roller" />
+</div>
+
+**Mission:** Warframe tile identification prototype  
+**Role:** Tooling Developer
+
+**Tech:** `Python` `Tkinter` `Log Parsing` `Desktop GUI`
+
+Live EE.log scanner for Void Armageddon and Cascade tile testing, built around fast mission-read detection and user-labeled room data.
+
+**Status:** Prototype Testing
+
+</td>
+<td width="50%" valign="top">
+
+### Portfolio / GitHub Profile
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="200" alt="Developer animation"/>
+</div>
+
+**Mission:** Project presentation and public profile  
+**Role:** Designer & Developer
+
+**Tech:** `Markdown` `GitHub` `Badges` `Visual Documentation`
+
+Image-forward portfolio profile with selected robotics, automation, research, and HPC work.
+
+**Status:** Active
+
+</td>
+</tr>
 </table>
+
 ---
 
-## ACADEMIC CREDENTIALS
+## Academic Credentials
 
 <div align="center">
 
-```
+```text
 UC MERCED - Computer Science & Engineering (B.S.)
 Recent Graduate
 
 Core Coursework:
-• Algorithm Design and Analysis    • Software Engineering
-• Computer Vision                  • Artificial Intelligence  
-• Machine Learning                 • Human-Computer Interaction
-• Probability and Statistics       • Numerical Methods
-
+- Algorithm Design and Analysis    - Software Engineering
+- Computer Vision                  - Artificial Intelligence
+- Machine Learning                 - Human-Computer Interaction
+- Probability and Statistics       - Numerical Methods
 ```
 
 </div>
 
 ---
 
-## CURRENT OBJECTIVES
+## Current Objectives
 
 - Developing advanced autonomous systems and robotics applications
-- Learning High-Performance Computing optimization techniques  
+- Learning High-Performance Computing optimization techniques
 - Building full-stack applications with real-time data processing
 - Researching network security protocols and system vulnerabilities
 - Optimizing performance-critical systems and algorithms
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="200"/>
-</div>
-
----
-
-## CONTACT
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munirk79@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KINGDRAGONER)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Animated divider"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KINGDRAGONER&label=Profile+Views&color=ff6b35&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=munir-a-khan&label=Profile+Views&color=ff6b35&style=for-the-badge" alt="Profile Views" />
 </div>
