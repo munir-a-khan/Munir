@@ -117,6 +117,46 @@ Ultra-low latency market sniping bot for Riven mods. Rotating proxy architecture
 <tr>
 <td width="50%" valign="top">
 
+### [rivenforge](https://github.com/munir-a-khan/rivenforge)
+<div align="center">
+  <a href="https://github.com/munir-a-khan/rivenforge">
+    <img src="https://img.shields.io/badge/Warframe-Riven%20Analyzer-9B5DE5?style=for-the-badge&logo=python&logoColor=white" alt="rivenforge" />
+  </a>
+</div>
+
+**Mission:** Riven analyzer + roller desktop app  
+**Role:** Solo Developer / Architect
+
+**Tech:** `Tauri 2` `React + TypeScript` `FastAPI` `WinRT OCR` `PyInstaller`
+
+Windows desktop app for Warframe riven analysis. React UI on a Rust Tauri shell, FastAPI Python sidecar, deterministic rule engine, RAG-driven scoring, and a DXGI capture fallback so OCR keeps working in Fullscreen Exclusive.
+
+**Status:** Ongoing
+
+</td>
+<td width="50%" valign="top">
+
+### [Job Search Command Center](https://github.com/munir-a-khan/job-search-command-center)
+<div align="center">
+  <a href="https://github.com/munir-a-khan/job-search-command-center">
+    <img src="https://img.shields.io/badge/AI%20Job-Pipeline-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white" alt="Job Search Command Center" />
+  </a>
+</div>
+
+**Mission:** AI-assisted job application pipeline  
+**Role:** Full-Stack Developer
+
+**Tech:** `Claude API` `FastAPI` `React + TypeScript` `Docker`
+
+Single web app for the whole job-search loop: JD parser, resume tailoring, cover-letter generator, and application tracker — wired to the Claude API and shipped Dockerized.
+
+**Status:** Ongoing
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### IRC Protocol Research
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3f01688a-7933-42f8-9246-4b354e6d9664" width="100%" alt="TLS Handshake Analysis - Warframe Protocol" style="border-radius: 10px;"/>
