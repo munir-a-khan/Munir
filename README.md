@@ -106,11 +106,11 @@ Autonomous navigation system for cilantro crop yield estimation using Farm-ng Am
 **Mission:** High-Frequency Trading Bot  
 **Role:** Automation Developer
 
-**Tech:** `Python/Node.js` `discord.py/discord.js` `Rotating Proxies`
+**Tech:** `Node.js` `discord.js` `SQLite` `Rotating Proxies`
 
-Ultra-low latency market sniping bot for Riven mods. Rotating proxy architecture, heartbeat monitoring, and custom auction profiles.
+Ultra-low latency sniping bot for Warframe riven auctions — ~8s detection via staggered multi-proxy polling, disposition-based stat grading engine, Discord/Telegram alerts with feedback buttons, SQLite metrics + remote admin dashboard, and CN/RU trade translation tooling. 80k+ platinum captured by its users.
 
-**Status:** Production Ready - Private Repository
+**Status:** v2 In Production — 5 active users
 
 </td>
 </tr>
