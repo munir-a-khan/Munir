@@ -119,7 +119,7 @@ Ultra-low latency sniping bot for Warframe riven auctions — ~8s detection via 
 
 ### [rivenforge](https://github.com/munir-a-khan/rivenforge)
 <div align="center">
-  <a href="https://github.com/munir-a-khan/rivenforge">
+  <a href="https://github.com/munir-a-khan/rivenforge/releases/latest">
     <img src="https://img.shields.io/badge/Warframe-Riven%20Analyzer-9B5DE5?style=for-the-badge&logo=python&logoColor=white" alt="rivenforge" />
   </a>
 </div>
@@ -127,11 +127,11 @@ Ultra-low latency sniping bot for Warframe riven auctions — ~8s detection via 
 **Mission:** Riven analyzer + roller desktop app  
 **Role:** Solo Developer / Architect
 
-**Tech:** `Tauri 2` `React + TypeScript` `FastAPI` `WinRT OCR` `PyInstaller`
+**Tech:** `Tauri 2` `React + TypeScript` `FastAPI` `WinRT OCR` `Windows.Graphics.Capture` `Docker`
 
-Windows desktop app for Warframe riven analysis. React UI on a Rust Tauri shell, FastAPI Python sidecar, deterministic rule engine, RAG-driven scoring, and a DXGI capture fallback so OCR keeps working in Fullscreen Exclusive.
+Windows desktop app for Warframe riven analysis. React UI on a Rust Tauri shell, FastAPI Python sidecar, deterministic rule engine, and RAG-driven scoring. Multi-backend capture (mss / DXGI / WGC) reads the game window even while it's covered or unfocused; a headless Linux container serves the cross-platform API. Ships as a signed-optional Windows installer via GitHub Releases.
 
-**Status:** Ongoing
+**Status:** Ongoing (v0.1.6)
 
 </td>
 <td width="50%" valign="top">
