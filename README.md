@@ -129,7 +129,7 @@ Ultra-low latency sniping bot for Warframe riven auctions — ~8s detection via 
 
 **Tech:** `Tauri 2` `React + TypeScript` `FastAPI` `WinRT OCR` `Windows.Graphics.Capture` `Docker`
 
-Windows desktop app for Warframe riven analysis. React UI on a Rust Tauri shell, FastAPI Python sidecar, deterministic rule engine, and RAG-driven scoring. Multi-backend capture (mss / DXGI / WGC) reads the game window even while it's covered or unfocused; a headless Linux container serves the cross-platform API. Ships as a signed-optional Windows installer via GitHub Releases.
+Windows desktop app that reads and rolls Warframe rivens. It decodes each riven's generated name (a deterministic grammar) to recover the positive stats and OCRs only the negative, then matches the roll against user rule-profiles. React UI on a Rust Tauri shell, FastAPI Python sidecar, a deterministic rule engine, and an advisory retrieval + live-market scorer (TF-IDF + Warframe.Market — not RAG). Multi-backend window capture (mss / DXGI / WGC) reads the game even while it's covered or unfocused; a headless Linux container serves the cross-platform API.
 
 **Status:** Ongoing (v0.1.6)
 
