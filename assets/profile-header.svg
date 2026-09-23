@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Munir Khan — Backend and Full Stack Developer</title>
+  <desc id="desc">Autonomous systems, developer tools, and high-performance computing. A navy banner with orange accents and a connected path motif.</desc>
+  <rect width="1200" height="300" rx="20" fill="#101923"/>
+  <path d="M850 0v300M950 0v300M1050 0v300M1150 0v300M800 50h400M800 150h400M800 250h400" stroke="#22313e" fill="none"/>
+  <path d="M850 230h100v-80h100V70h150" fill="none" stroke="#ff9a62" stroke-width="3"/>
+  <g fill="#101923" stroke="#ff9a62" stroke-width="3">
+    <circle cx="850" cy="230" r="7"/><circle cx="950" cy="150" r="7"/><circle cx="1050" cy="70" r="7"/>
+  </g>
+  <rect x="54" y="52" width="36" height="4" rx="2" fill="#ff9a62"/>
+  <text x="54" y="132" fill="#f4f7fa" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="700">Munir Khan</text>
+  <text x="56" y="184" fill="#ffb58c" font-family="Segoe UI, Arial, sans-serif" font-size="26">Backend &amp; Full Stack Developer</text>
+  <text x="56" y="244" fill="#b8c6d3" font-family="Segoe UI, Arial, sans-serif" font-size="19">AUTONOMOUS SYSTEMS  /  DEVELOPER TOOLS  /  HPC</text>
+</svg>
