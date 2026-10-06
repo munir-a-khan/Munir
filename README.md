@@ -26,15 +26,17 @@ An autonomous navigation system for cilantro crop yield estimation, built around
 
 `FastAPI` `React` `TypeScript` `WebSockets` `Multiprocessing`
 
-<details>
-<summary>See the robot</summary>
-<br />
-<img src="https://github.com/user-attachments/assets/f4a439c8-2176-4a50-a3ba-3b354d7fd5b7" width="680" alt="Farm-ng Amiga robot used in the agricultural robotics capstone" />
-</details>
+[![AMIGA capstone poster showing crop yield estimation, autonomous navigation, backend and frontend technologies, and the Farm-ng robot in the field](assets/projects/amiga.png)](assets/projects/amiga.png)
+
+*Original capstone poster: navigation, image capture, yield estimation, and the robot in the field. Open the image to read the full poster.*
 
 ### [rivenforge](https://github.com/munir-a-khan/rivenforge) · Desktop analysis & automation
 
 **Solo Developer · Windows desktop application**
+
+[![rivenforge desktop manual analysis screen with screenshot upload and capture controls](assets/projects/rivenforge-manual-analyze.png)](https://github.com/munir-a-khan/rivenforge)
+
+*Actual desktop interface from the project documentation, shown before an image is analyzed.*
 
 A Warframe riven analyzer and roller with a React interface, Tauri desktop shell, and local FastAPI backend.
 
@@ -45,6 +47,22 @@ A Warframe riven analyzer and roller with a React interface, Tauri desktop shell
 `Tauri 2` `React` `TypeScript` `FastAPI` `WinRT OCR` `Docker`
 
 [Explore the code →](https://github.com/munir-a-khan/rivenforge)
+
+### [SkyFlip](https://github.com/munir-a-khan/skyblock-auction-engine) · Minecraft SkyBlock planning
+
+**In development · Local inspection and manual planning**
+
+[![SkyFlip Auction screener showing conditional capital, net-if-sold estimates and explicit uncertainty; anonymous synthetic fixture examples](assets/projects/skyflip-auction.jpg)](https://github.com/munir-a-khan/skyblock-auction-engine/blob/0ef1630d799fef5e907454218e0b00f916b40a57/docs/FEATURE_TOUR.md)
+
+*Auction inspection with conditional capital and net-if-sold estimates. Synthetic fixture example; availability and completion remain unverified.*
+
+[![SkyFlip Craft and Forge route cards showing conditional capital, fees, completion uncertainty and manual verification; anonymous synthetic fixture examples](assets/projects/skyflip-craft-forge.jpg)](https://github.com/munir-a-khan/skyblock-auction-engine/blob/0ef1630d799fef5e907454218e0b00f916b40a57/docs/FEATURE_TOUR.md)
+
+*Craft & Forge routes with conditional fees and capital, explicit uncertainty, and manual execution. Images show synthetic fixture examples.*
+
+SkyFlip brings local **Auction inspection, Bazaar order planning, and Craft & Forge routes** into one interface. It presents conditional estimates and their unknowns to support manual decisions; these demo images show no live market, account, or executed fills.
+
+[Explore the feature tour →](https://github.com/munir-a-khan/skyblock-auction-engine/blob/0ef1630d799fef5e907454218e0b00f916b40a57/docs/FEATURE_TOUR.md)
 
 ### [Job Search Command Center](https://github.com/munir-a-khan/job-search-command-center) · AI-assisted workflow
 
@@ -62,6 +80,10 @@ A single workspace for the job-search process: job-description parsing, resume t
 ### IndySCC 2024 · High-performance computing
 
 **Performance Tuning Specialist · Student Cluster Competition**
+
+[![SC24 conference logo](assets/projects/indyscc.png)](https://sc24.supercomputing.org/)
+
+*SC24 event identity restored from the earlier portfolio; this is the conference logo.*
 
 Optimized High-Performance Linpack benchmarks on multi-node clusters through compiler flags and MPI configuration tuning.
 
