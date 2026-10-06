@@ -48,6 +48,22 @@ A Warframe riven analyzer and roller with a React interface, Tauri desktop shell
 
 [Explore the code →](https://github.com/munir-a-khan/rivenforge)
 
+### [SkyFlip](https://github.com/munir-a-khan/skyblock-auction-engine) · Minecraft SkyBlock planning
+
+**In development · Local inspection and manual planning**
+
+[![SkyFlip Auction screener showing conditional capital, net-if-sold estimates and explicit uncertainty; anonymous synthetic fixture examples](assets/projects/skyflip-auction.jpg)](https://github.com/munir-a-khan/skyblock-auction-engine/blob/0ef1630d799fef5e907454218e0b00f916b40a57/docs/FEATURE_TOUR.md)
+
+*Auction inspection with conditional capital and net-if-sold estimates. Synthetic fixture example; availability and completion remain unverified.*
+
+[![SkyFlip Craft and Forge route cards showing conditional capital, fees, completion uncertainty and manual verification; anonymous synthetic fixture examples](assets/projects/skyflip-craft-forge.jpg)](https://github.com/munir-a-khan/skyblock-auction-engine/blob/0ef1630d799fef5e907454218e0b00f916b40a57/docs/FEATURE_TOUR.md)
+
+*Craft & Forge routes with conditional fees and capital, explicit uncertainty, and manual execution. Images show synthetic fixture examples.*
+
+SkyFlip brings local **Auction inspection, Bazaar order planning, and Craft & Forge routes** into one interface. It presents conditional estimates and their unknowns to support manual decisions; these demo images show no live market, account, or executed fills.
+
+[Explore the feature tour →](https://github.com/munir-a-khan/skyblock-auction-engine/blob/0ef1630d799fef5e907454218e0b00f916b40a57/docs/FEATURE_TOUR.md)
+
 ### [Job Search Command Center](https://github.com/munir-a-khan/job-search-command-center) · AI-assisted workflow
 
 **Full-Stack Developer · Web application**
