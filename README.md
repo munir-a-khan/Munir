@@ -26,15 +26,17 @@ An autonomous navigation system for cilantro crop yield estimation, built around
 
 `FastAPI` `React` `TypeScript` `WebSockets` `Multiprocessing`
 
-<details>
-<summary>See the robot</summary>
-<br />
-<img src="https://github.com/user-attachments/assets/f4a439c8-2176-4a50-a3ba-3b354d7fd5b7" width="680" alt="Farm-ng Amiga robot used in the agricultural robotics capstone" />
-</details>
+[![AMIGA capstone poster showing crop yield estimation, autonomous navigation, backend and frontend technologies, and the Farm-ng robot in the field](assets/projects/amiga.png)](assets/projects/amiga.png)
+
+*Original capstone poster: navigation, image capture, yield estimation, and the robot in the field. Open the image to read the full poster.*
 
 ### [rivenforge](https://github.com/munir-a-khan/rivenforge) · Desktop analysis & automation
 
 **Solo Developer · Windows desktop application**
+
+[![rivenforge desktop manual analysis screen with screenshot upload and capture controls](assets/projects/rivenforge-manual-analyze.png)](https://github.com/munir-a-khan/rivenforge)
+
+*Actual desktop interface from the project documentation, shown before an image is analyzed.*
 
 A Warframe riven analyzer and roller with a React interface, Tauri desktop shell, and local FastAPI backend.
 
@@ -62,6 +64,10 @@ A single workspace for the job-search process: job-description parsing, resume t
 ### IndySCC 2024 · High-performance computing
 
 **Performance Tuning Specialist · Student Cluster Competition**
+
+[![SC24 conference logo](assets/projects/indyscc.png)](https://sc24.supercomputing.org/)
+
+*SC24 event identity restored from the earlier portfolio; this is the conference logo.*
 
 Optimized High-Performance Linpack benchmarks on multi-node clusters through compiler flags and MPI configuration tuning.
 
